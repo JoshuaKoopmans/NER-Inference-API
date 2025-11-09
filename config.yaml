@@ -1,0 +1,11 @@
+models:
+  gliner_multi-v2.1:
+    type: gliner
+    path: urchade/gliner_multi-v2.1
+    labels: ["PERSON", "ORG", "COUNTRY", "WEAPON"]
+    version: "v2.1"
+
+  bert-base-NER:
+    type: hf
+    model_name: dslim/bert-base-NER
+    version: "v1.0"
