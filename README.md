@@ -16,10 +16,6 @@ A lightweight, production-ready **NER (Named Entity Recognition)** API built wit
 ## ⚙️ Setup (Local)
 
 ### 1. Clone and enter
-```bash
-git clone https://github.com/yourusername/ner-serve.git
-cd ner-serve
-```
 
 ### 2. Create and activate environment
 ```bash
